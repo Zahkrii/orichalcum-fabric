@@ -1,0 +1,12 @@
+{
+    "item.orichalcum.raw_orichalcum": "奥利哈原矿",
+    "item.orichalcum.raw_orichalcum.tooltip": "需要熔炼以实现其价值",
+    "item.orichalcum.orichalcum_item": "奥利哈钢",
+    "item.orichalcum.orichalcum_item.tooltip": "保管好，它真的很有用",
+    "item.orichalcum.orichalcum_shard": "奥利哈钢碎片",
+    "block.orichalcum.orichalcum_ore": "奥利哈矿石",
+    "block.orichalcum.deepslate_orichalcum_ore": "深层奥利哈矿石",
+    "block.orichalcum.orichalcum_block": "奥利哈钢块",
+    "block.orichalcum.orichalc_furnace": "奥利哈熔炉",
+    "itemGroup.orichalcum.misc": "奥利哈钢 - 杂项"
+}
